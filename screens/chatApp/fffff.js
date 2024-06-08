@@ -26,7 +26,7 @@ import { auth,
 } from '../../firebase/firebase';
 const Chat = (props) => {
   const [users, setUsers] = useState([
-    // {
+    //{
     //   url: 'https://randomuser.me/api/portraits/men/75.jpg',
     //   name: 'Hoa',
     //   message: 'Hello, how are you',
